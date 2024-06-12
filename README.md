@@ -2,7 +2,7 @@
 
 ## Description
 
-
+BookSearch Engine is a full-stack MERN application that allows users to search for books using the Google Books API and save their favorite books to a personal account. The application uses GraphQL with Apollo Server for the backend and React for the frontend.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## Installation
 
-
+To install, clone repo, install dependencies for both client and server, and start development server.
 
 ## Usage
 
@@ -25,13 +25,13 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Gabby
+Gabby. Suggestions made by ChatGPT.
 
 ## Links
 
-Link to video submission: 
+Link to repo: https://github.com/gemperador/BookSearchEngine
 
-Link to deployed app:
+Link to deployed app: https://gemperador.github.io/BookSearchEngine/
 
 ## Questions
 
